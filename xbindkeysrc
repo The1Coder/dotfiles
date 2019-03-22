@@ -1,0 +1,8 @@
+"amixer set Master 5%+ && killall -USR1 i3status"
+XF86AudioRaiseVolume
+
+"amixer set Master 5%- && killall -USR1 i3status"
+XF86AudioLowerVolume
+
+"amixer set Master toggle && killall -USR1 i3status"
+XF86AudioMute

@@ -1,0 +1,6 @@
+URxvt*background: black
+URxvt*foreground: white
+URxvt.perl-ext-common:  ...,resize-font,...
+urxvt*transparent: true
+urxvt*shading: 30
+urxvt.scrollBar: false
